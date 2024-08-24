@@ -381,6 +381,7 @@ Name | Description
 
 Name | Description 
  --- | --- 
+<a href="https://dogoninu.com/" target="_blank">Dogon Inu XRP Dojo</a> | Students of Uhuru in Tanzanias Ledger Game for School Improvement.
 
 
 ---
